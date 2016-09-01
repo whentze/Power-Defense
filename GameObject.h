@@ -1,9 +1,6 @@
-#pragma once
+#include "util.h"
 
-struct Point{
-    int x;
-    int y;
-};
+#pragma once
 
 class GameObject{
 public:
